@@ -22,6 +22,10 @@ const CREDIBLE_SOURCES = [
   { domain: "thecable.ng", name: "The Cable", reliability: 0.83 },
   { domain: "premiumtimesng.com", name: "Premium Times", reliability: 0.86 },
   { domain: "dailytrust.com", name: "Daily Trust", reliability: 0.81 },
+  { domain: "arise.tv", name: "Arise TV", reliability: 0.81 },
+  { domain: "lagostelevision.com", name: "Lagod Television", reliability: 0.84 },
+  { domain: "tvcnews.tv", name: "TVC News", reliability: 0.87 },
+  { domain: "guardian.ng", name: "Vanguard Nigeria", reliability: 0.80 },
 ]
 
 /**
